@@ -1,7 +1,7 @@
 Hi there 👋 Christopher is my name and I go by Topherkriz!
 
 Currently working on projects to help build my portfolio, I completed a few courses on HTML/CSS/JAVASCRIPT. 
-I am pursuing a career in tech to chnage pace from what I am doing!
+I am pursuing a career in tech to change pace from what I am doing!
 You can reach me at my Discord account @Topherkriz.
 
 <!--
