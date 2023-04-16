@@ -11,6 +11,16 @@ Currently working on projects to help build my portfolio, I completed a few cour
 |     3| CSS       |
 
 </details>
+<details>
+<summary>My Contact</summary>
+
+| Location     | Tag  |
+|-----:|-----------|
+|   Linkedin   | https://www.linkedin.com/in/christopher-silverio-3a889a255 |
+| Discord      | TopherKriz#4277      |
+
+</details>
+
 
 ---
 
